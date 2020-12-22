@@ -1,6 +1,8 @@
 <h1>Clone do Login Instagram</h1>
+<h2>Screenshots</h2>
+<img href=<img src="/img/screenshot/print.png" width="500">"
 <h2>Sobre esse Projeto</h2>
-Objetivo:<br />
+#Objetivo:<br />
 Este projeto foi desenvolvido para servir como entrega durante o Bootcamp da Digital Inovation One. O objetivo principal é desenvolver um clone da tela de login do Instagram.<br /><br />
 
 Me mande um e-mail! marcelofortes306@gmail.com<br />
