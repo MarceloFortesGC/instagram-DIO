@@ -16,11 +16,11 @@
 .form{
     min-width: 100px;
     border: solid rgb(219,219,219) 1px;
-    margin: 40px 0;
+    margin: 40px 0 15px 0;
     padding: 10px 0;
 }
 
-.form img{
+.logo img{
     height: 100px;
     padding: 5px 100px;
 }
@@ -57,10 +57,59 @@
     font-weight: bold;
 }
 
+.facebook-login{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.facebook-login a{
+    text-decoration: none;
+    
+}
+
+.facebook-login img{
+    height: 20px;
+    padding: 0 20px;
+}
+
 #entrar{
     margin-top: 10px;
     width: 77%;
     background-color: #0095f6;
     color: white;
     font-weight: bold;
+}
+
+.f-password{
+    padding: 20px 10px;
+    text-align: center;
+    
+}
+
+.f-password a{
+    color: gray;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.register{
+    border: solid rgb(219,219,219) 1px;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.register a{
+    color: #0095f6;
+    text-align: center;
+    text-decoration: none;
+}
+
+.get-app{
+    padding: 20px;
+    text-align: center;
+}
+
+.icons img{
+    height: 40px;
 }
