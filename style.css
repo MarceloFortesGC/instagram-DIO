@@ -113,3 +113,13 @@
 .icons img{
     height: 40px;
 }
+
+@media screen and (max-width: 850px){
+    .phone-img{
+        display: none;
+    }
+
+    .container{
+        justify-content: center;
+    }
+}
